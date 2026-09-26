@@ -49,9 +49,3 @@ This program demonstrates the use of a static data member to count the number of
 
 **Description:**
 This program demonstrates the use of an inline member function and a friend function to access and display private data of a class.
-
----
-
-## Project Description
-
-This repository contains C++ programming programs covering the concepts included in Units I–IV. Each program demonstrates a specific C++ programming concept through a practical example.
